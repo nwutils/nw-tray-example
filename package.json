@@ -1,0 +1,19 @@
+{
+  "name": "tray",
+  "version": "1.0.0",
+  "description": "Tray app example",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw ."
+  },
+  "devDependencies": {
+    "nw": "sdk"
+  },
+  "window": {
+    "icon": "assets/icon.png",
+    "show": false,
+    "show_in_taskbar": false
+  },
+  "repository": "https://github.com/TheJaredWilcurt/nw-tray-example",
+  "license": "MIT"
+}
