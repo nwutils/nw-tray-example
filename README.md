@@ -8,4 +8,4 @@ Will work on Windows 7+, OSX 10.9+ and most Debian based Linux distros (such as 
 
 1. Install [Node.js](https://nodejs.org)
 1. `npm install`
-1. `npm start
+1. `npm start`
