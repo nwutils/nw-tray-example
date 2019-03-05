@@ -7,7 +7,7 @@
     "start": "nw ."
   },
   "devDependencies": {
-    "nw": "sdk"
+    "nw": "0.33.4-sdk"
   },
   "window": {
     "icon": "assets/icon.png",
